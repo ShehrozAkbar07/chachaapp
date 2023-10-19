@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193445089560",
+    "project_id": "kolachidailybook",
+    "storage_bucket": "kolachidailybook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193445089560:android:d28432c7518f9a94c30e6d",
+        "android_client_info": {
+          "package_name": "com.example.kolachibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmS1WXO6Fcb0PXq7Ez8fCw-JTTT9tUsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
